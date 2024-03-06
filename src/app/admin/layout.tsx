@@ -8,7 +8,7 @@ import React, { Suspense } from "react";
 import { AntdRegistry } from "@ant-design/nextjs-registry";
 import { ColorModeContextProvider } from "@contexts/color-mode";
 import { authProvider } from "@providers/auth-provider";
-import { dataProvider } from "@providers/data-provider";
+import { dataProvider } from "@providers/rest-data-provider/data-provider";
 import "@refinedev/antd/dist/reset.css";
 
 export const metadata: Metadata = {
