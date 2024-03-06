@@ -9,6 +9,9 @@ import { AntdRegistry } from "@ant-design/nextjs-registry";
 import { ColorModeContextProvider } from "@contexts/color-mode";
 import { authProvider } from "@providers/auth-provider";
 import { dataProvider } from "@providers/rest-data-provider/data-provider";
+import { AntdInferencer } from "@refinedev/inferencer/antd";
+
+
 import "@refinedev/antd/dist/reset.css";
 
 export const metadata: Metadata = {
@@ -39,22 +42,13 @@ export default function RootLayout({
                 notificationProvider={useNotificationProvider}
                 authProvider={authProvider}
                 resources={[
+                  // templates
                   {
-                    name: "blog_posts",
-                    list: "/admin/blog-posts",
-                    create: "/admin/blog-posts/create",
-                    edit: "/admin/blog-posts/edit/:id",
-                    show: "/admin/blog-posts/show/:id",
-                    meta: {
-                      canDelete: true,
-                    },
-                  },
-                  {
-                    name: "categories",
-                    list: "/admin/categories",
-                    create: "/admin/categories/create",
-                    edit: "/admin/categories/edit/:id",
-                    show: "/admin/categories/show/:id",
+                    name: "comments",
+                    list: "/admin/comments",
+                    create: "/admin/comments/create",
+                    edit: "/admin/comments/edit/:id",
+                    show: "/admin/comments/show/:id",
                     meta: {
                       canDelete: true,
                     },
