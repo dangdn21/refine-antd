@@ -35,7 +35,7 @@
     { "id": 1, "rate": 23.500 },
     { "id": 2, "rate": 24.5 }
   ],
-  "package": [
+  "packages": [
   {
     "id": 1,
     "name": "exercitation n",
@@ -61,7 +61,7 @@
     "annualInterestRate": 43369591.96967095
   }
   ],
-  "contract": [
+  "contracts": [
   {
     "userId": 1,
     "packageId": 1,
