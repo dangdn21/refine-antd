@@ -1,0 +1,306 @@
+{
+  "users":[
+  {
+    "id": 1,
+    "email": "tempornon amet nost",
+    "phone": "dolore Ut veniam",
+    "password": "ipsum dolor ut "
+  },
+  {
+    "id": 2,
+    "email": "ea nostrud aute",
+    "phone": "ullamco eu",
+    "password": "utcillum non"
+  },
+  {
+    "id": 3,
+    "email": "officiairure",
+    "phone": "minim eu es",
+    "password": "velit aliquip"
+  },
+  {
+    "id": 4,
+    "email": "nulla amet co",
+    "phone": "consequat irure fugi",
+    "password": "anim commodo eiu"
+  },
+  {
+    "id": 5,
+    "email": "dolore ut officia in",
+    "phone": "laboris id volupta",
+    "password": "anim nisi eiusm"
+  }
+  ],
+  "rate-exchange": [
+    { "id": 1, "rate": 23.500 },
+    { "id": 2, "rate": 24.5 }
+  ],
+  "packages": [
+  {
+    "id": 1,
+    "name": "exercitation n",
+    "duration": 68816874,
+    "annualInterestRate": -88310465.68368639
+  },
+  {
+    "id": 2,
+    "name": "est Excepte",
+    "duration": 54577566,
+    "annualInterestRate": -73554982.0297238
+  },
+  {
+    "id": 3,
+    "name": "proident Lorem",
+    "duration": -6836004,
+    "annualInterestRate": -43785211.58390129
+  },
+  {
+    "id": 4,
+    "name": "culpaut consequat ip",
+    "duration": -66059810,
+    "annualInterestRate": 43369591.96967095
+  }
+  ],
+  "contracts": [
+  {
+    "userId": 1,
+    "packageId": 1,
+    "contractNumber": "utreprehenderit occ",
+    "usdtRate": 68504624.93309349,
+    "duration": -31956633,
+    "principle": -42616062.44682108,
+    "annualInterestRate": 43529121.00601247,
+    "bankName": "ullamco al",
+    "bankBranch": "labore velit eiusm",
+    "bankAccountNumber": "deserunt u"
+  },
+  {
+    "userId": 2,
+    "packageId": 1,
+    "contractNumber": "in occaecat",
+    "usdtRate": -61393450.34883674,
+    "duration": 31762178,
+    "principle": -12787509.8562845,
+    "annualInterestRate": -99729948.54978858,
+    "bankName": "doUtoccaecat repre",
+    "bankBranch": "nullafugiat ea cil",
+    "bankAccountNumber": "dolorvenia"
+  },
+  {
+    "userId": 3,
+    "packageId": 4,
+    "contractNumber": "cupidatat c",
+    "usdtRate": 77076976.81248713,
+    "duration": -3326527,
+    "principle": 49736932.547561705,
+    "annualInterestRate": 2718693.710091144,
+    "bankName": "officiaminim ",
+    "bankBranch": "ullamco ex",
+    "bankAccountNumber": "ex dolor o"
+  },
+  {
+    "userId": 2,
+    "packageId": 1,
+    "contractNumber": "Excepteur minim exer",
+    "usdtRate": 25777269.66947797,
+    "duration": -90990785,
+    "principle": -39930322.06002787,
+    "annualInterestRate": -75983730.53259721,
+    "bankName": "culpa tempor occae",
+    "bankBranch": "adlaborum consectet",
+    "bankAccountNumber": "Excepteur "
+  },
+  {
+    "userId": 3,
+    "packageId": 1,
+    "contractNumber": "dolor consequat fug",
+    "usdtRate": 48874723.722999215,
+    "duration": -71974053,
+    "principle": -88815484.66144751,
+    "annualInterestRate": 11452070.172504485,
+    "bankName": "auteveniam do",
+    "bankBranch": "magna esse Lore",
+    "bankAccountNumber": "ea aute ut sed"
+  },
+  {
+    "userId": 4,
+    "packageId": 3,
+    "contractNumber": "eu incididunt",
+    "usdtRate": 80987704.85282773,
+    "duration": -20557821,
+    "principle": 55368692.13498002,
+    "annualInterestRate": 25358605.666215748,
+    "bankName": "in dolor eu",
+    "bankBranch": "ullamco elit off",
+    "bankAccountNumber": "esse consectetur"
+  },
+  {
+    "userId": 3,
+    "packageId": 3,
+    "contractNumber": "consequatveniam ",
+    "usdtRate": -622695.216584906,
+    "duration": 9590528,
+    "principle": -57494216.6810255,
+    "annualInterestRate": -34549882.085331514,
+    "bankName": "qui labore incid",
+    "bankBranch": "in est cillum",
+    "bankAccountNumber": "doloreparia"
+  },
+  {
+    "userId": 3,
+    "packageId": 1,
+    "contractNumber": "id non mollit in cup",
+    "usdtRate": 87006251.21838197,
+    "duration": 63124182,
+    "principle": -62412689.66760094,
+    "annualInterestRate": 45827446.2058737,
+    "bankName": "Duis Lorem",
+    "bankBranch": "laboredolore",
+    "bankAccountNumber": "proident cul"
+  },
+  {
+    "userId": 3,
+    "packageId": 1,
+    "contractNumber": "consequat ex",
+    "usdtRate": -73509295.15527683,
+    "duration": -13038968,
+    "principle": -34359786.41363415,
+    "annualInterestRate": -58946250.39946457,
+    "bankName": "amet labor",
+    "bankBranch": "est deserunt magn",
+    "bankAccountNumber": "dolore nisi"
+  },
+  {
+    "userId": 3,
+    "packageId": 2,
+    "contractNumber": "pariatur Excepteur",
+    "usdtRate": 95597219.15587258,
+    "duration": 75113467,
+    "principle": 37926856.70331347,
+    "annualInterestRate": 85437482.40444714,
+    "bankName": "sit reprehender",
+    "bankBranch": "esseametexer",
+    "bankAccountNumber": "Duisvolupt"
+  },
+  {
+    "userId": 2,
+    "packageId": 2,
+    "contractNumber": "aliqua cillum min",
+    "usdtRate": 77132992.6050809,
+    "duration": 93300386,
+    "principle": -25650994.946409345,
+    "annualInterestRate": -97605784.67145199,
+    "bankName": "cupidatat v",
+    "bankBranch": "enimoccaec",
+    "bankAccountNumber": "occaecatnisi labore"
+  },
+  {
+    "userId": 2,
+    "packageId": 4,
+    "contractNumber": "aute occaeca",
+    "usdtRate": 559500.7315134704,
+    "duration": 30605317,
+    "principle": -8556978.163129121,
+    "annualInterestRate": -18741161.177512124,
+    "bankName": "ex voluptate",
+    "bankBranch": "Duis nulla eni",
+    "bankAccountNumber": "ut deserunt a"
+  },
+  {
+    "userId": 2,
+    "packageId": 3,
+    "contractNumber": "doloreanim ci",
+    "usdtRate": 4517096.8464821875,
+    "duration": 63842855,
+    "principle": -65911948.69761572,
+    "annualInterestRate": 5434000.205832228,
+    "bankName": "proidenttempor do",
+    "bankBranch": "commodo culp",
+    "bankAccountNumber": "Lorempariatur vel"
+  },
+  {
+    "userId": 2,
+    "packageId": 1,
+    "contractNumber": "incididunt id",
+    "usdtRate": 42078323.572883666,
+    "duration": 85165782,
+    "principle": 6897932.558618784,
+    "annualInterestRate": 69852655.82267833,
+    "bankName": "laboris cons",
+    "bankBranch": "consequat labore s",
+    "bankAccountNumber": "Duis proident qui mo"
+  },
+  {
+    "userId": 2,
+    "packageId": 4,
+    "contractNumber": "ipsumdeserunt nostr",
+    "usdtRate": 21072936.811817035,
+    "duration": 32508243,
+    "principle": -21565453.056217358,
+    "annualInterestRate": -79742745.67509249,
+    "bankName": "nulla dolor",
+    "bankBranch": "qui laboru",
+    "bankAccountNumber": "sunt ea do"
+  },
+  {
+    "userId": 2,
+    "packageId": 3,
+    "contractNumber": "Duis velit mollit",
+    "usdtRate": 42412320.44126347,
+    "duration": 38839658,
+    "principle": 45509928.25530115,
+    "annualInterestRate": -58431714.88837915,
+    "bankName": "laboris exercitatio",
+    "bankBranch": "ea temporsed ad rep",
+    "bankAccountNumber": "in noncillum labo"
+  },
+  {
+    "userId": 2,
+    "packageId": 2,
+    "contractNumber": "Excepteur ",
+    "usdtRate": 38485220.746080816,
+    "duration": 97412301,
+    "principle": -98196904.38590944,
+    "annualInterestRate": -94497275.91505726,
+    "bankName": "eiusmod la",
+    "bankBranch": "est inestni",
+    "bankAccountNumber": "elit consectetur"
+  },
+  {
+    "userId": 1,
+    "packageId": 1,
+    "contractNumber": "sit voluptate ",
+    "usdtRate": 54228691.78957352,
+    "duration": 99583153,
+    "principle": 19810954.040977925,
+    "annualInterestRate": -65053098.40736877,
+    "bankName": "deserunt ut",
+    "bankBranch": "magna culpa",
+    "bankAccountNumber": "minim irure "
+  },
+  {
+    "userId": 1,
+    "packageId": 3,
+    "contractNumber": "occaecat a",
+    "usdtRate": 42303783.27287713,
+    "duration": 24652555,
+    "principle": -19666855.085334852,
+    "annualInterestRate": -7870613.346587166,
+    "bankName": "Duis euess",
+    "bankBranch": "Ut exaute qu",
+    "bankAccountNumber": "id adipisicing veli"
+  },
+  {
+    "userId": 1,
+    "packageId": 2,
+    "contractNumber": "idvelit eu magna",
+    "usdtRate": 23243617.818652138,
+    "duration": 82198804,
+    "principle": -73961083.0661086,
+    "annualInterestRate": -77116207.29810092,
+    "bankName": "do Ut eulaboru",
+    "bankBranch": "adipisicing ex am",
+    "bankAccountNumber": "voluptateparia"
+  }
+  ]
+}
